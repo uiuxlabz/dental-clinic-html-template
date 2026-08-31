@@ -4,6 +4,10 @@ Premium, framework-free dental clinic template. Outfit + Inter typography, teal 
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Pages
 
 | Page | File | Purpose |
